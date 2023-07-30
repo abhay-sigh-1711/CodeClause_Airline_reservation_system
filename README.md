@@ -11,6 +11,7 @@ The Airline Reservations System is a Java-based web application that provides a 
 - [Usage](#usage)
 - [Database Configuration](#database-configuration)
 - [Contributing](#contributing)
+- [Contact](#Contact)
 
 ## Features
 
@@ -81,6 +82,6 @@ Step:
 
 We welcome contributions to enhance the functionality and usability of the Airline Reservations System. If you find any issues or want to suggest improvements, please create a pull request or open an issue.
 
-##Contact 
+## Contact 
 
 For any Query or suggestion please contact me on: abhay73abhay@gmail.com
